@@ -5,7 +5,7 @@ It is a simple intro on how to get [OSM](openstreetmap.org) data on your PC and 
 
 It is made with [big](https://github.com/tmcw/big/) from [tmcw](https://macwright.org/)
 
-To see the online version go [here](diskmanti.github.io/osm-qgis)
+To see the online version go [here](harta.xyz/osm-qgis)
 
 The presentation is in albanian.
 
